@@ -6,7 +6,7 @@ Implementation of spring mass simulation. Use cases include physics based 2d clu
 
 ### Network clustering:
 
-<p align="center">
+<p float="left" align="center">
     <img src="vis/sim_network.png">
     <img src="vis/trajectory.png">
 </p>
@@ -19,6 +19,8 @@ Freeman, S.C., Freeman, L.C., 1979. The networkers network: A study of the impac
 
 ### Physics simulation:
 
-Amplitude                    | Two Springs with one mass inline      | Two springs with one mass in 2d space
-: ------------------------- :|: ----------------------------------- :|: ---------------------------- :
-<img src="vis/sim_1d.png">   | <img src="vis/sim_1d_2springs.png">   | <img src="vis/sim_2d.png">
+<p float="left" align="center">
+    <img src="vis/sim_1d.png">
+    <img src="vis/sim_1d_2springs.png">
+    <img src="vis/sim_2d.png">
+</p>
