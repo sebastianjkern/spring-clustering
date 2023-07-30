@@ -19,8 +19,6 @@ Freeman, S.C., Freeman, L.C., 1979. The networkers network: A study of the impac
 
 ### Physics simulation:
 
-<p align="center">
-    <img src="vis/sim_1d.png">
-    <img src="vis/sim_1d_2springs.png">
-    <img src="vis/sim_2d.png">
-</p>
+Amplitude  | Two Springs with one mass inline | Two springs with one mass in 2d space
+: ------------- | ------------- | ------------- :
+<img src="vis/sim_1d.png">  | <img src="vis/sim_1d_2springs.png"> | <img src="vis/sim_2d.png">
